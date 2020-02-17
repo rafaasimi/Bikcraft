@@ -1,14 +1,25 @@
 # Bikcraft
-Projeto criado em HTML, CSS e Javascript através do curso de Web Design disponibilizado pela Origamid.
 
-Pontos verificados:
--UX Design e UI Design
--Design do Projeto (Adobe XD, Wireframe, Cores, Tipografia)
--HTML
--CSS
--Responsividade
--Javascript e Animações
--SEO e Otimização
+## Description
+Fictitious company that develops personalized bikes for its customers.
 
-Curso: https://www.origamid.com/curso/web-design-completo/
+Project created in HTML, CSS and Javascript through the Web Design course provided by Origamid.
+
+## Topics
+- UX Design and UI Design;
+
+- Project Design (Adobe XD, Wireframe, Colors, Typography);
+
+- HTML;
+
+- CSS;
+
+- Responsive;
+
+- Javascript and Animations;
+
+- SEO and Optimization.
+
+## References
+Course - Origamid: https://www.origamid.com/curso/web-design-completo/
 
