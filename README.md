@@ -23,3 +23,6 @@ Project created in HTML, CSS and Javascript through the Web Design course provid
 ## References
 Course - Origamid: https://www.origamid.com/curso/web-design-completo/
 
+## Layout
+![Layout Bikcraft](https://raw.githubusercontent.com/rafaasimi/Bikcraft-Origamid/master/img/layout-bikcraft.png)
+
